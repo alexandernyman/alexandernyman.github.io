@@ -110,7 +110,7 @@ html, body{
 		}
 		.bg {
 					/* The image used */
-			background-image: url("../img/jag.jpg");
+			background-image: url("../img/me.jpg");
 
 			/* Set a specific height */
 			height: 500px; 
@@ -159,13 +159,13 @@ html, body{
 			background-image: url("../img/kontakt.jpg");
 		}	
 		#box4{
-			background-image: url("../img/jag.jpg");
+			background-image: url("../img/me.jpg");
 		}	
 		#box5{
 			background-image: url("../img/foto.jpg");
 		}
 		#box6{
-			background-image: url("../img/jag2.jpg");
+			background-image: url("../img/me2.jpg");
 		}
 		.video1{
 			margin: 0 auto;
